@@ -1,0 +1,7 @@
+echo "# Sophia-Rose-oberstein" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mygithubqccount123/Sophia-Rose-oberstein.git
+git push -u origin main
